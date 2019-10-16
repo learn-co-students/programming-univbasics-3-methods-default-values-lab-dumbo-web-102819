@@ -4,4 +4,4 @@ p "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 meal_choice("broccoli", "macaroni")
 meal_choice("broccoli", "macaroni", "tofu")
-meal_choice("broccoli")
+meal_choice("broccoli","macaroni")
